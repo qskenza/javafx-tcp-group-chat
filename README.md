@@ -45,7 +45,7 @@ Waiting for clients...
 
 Open a new terminal tab/window:
 ```bash
-cd TCPClient TCPClient
+cd TCPClient 
 mvn javafx:run
 ```
 
